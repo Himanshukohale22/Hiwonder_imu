@@ -7,7 +7,9 @@ Simple overview of use/purpose.
 Hiwonder IMU support for ROS2 Humble and data extraction from hexadecimal data via serial port.
 in-depth data explicit and values calibration respective to specific values.
 
-![Hiwonder IMU](images/hiwonder_imu.jpeg)
+<div align="center">
+	<img src="images/hiwonder_imu.jpeg">
+</div>
 
 ## Getting Started
 
